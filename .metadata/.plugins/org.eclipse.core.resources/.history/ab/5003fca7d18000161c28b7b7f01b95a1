@@ -1,0 +1,13 @@
+# Default bundle, used when no bundle is found for specific language
+
+label.formTitle=Image Viewer
+button.zoomIn=Zoom In
+button.zoomOut=Zoom Out
+button.prev=Previous
+button.next=Next
+button.slideShow=Slideshow
+
+button.open=Open
+button.stop=Stop SlideShow
+
+table.emptyText=Empty.

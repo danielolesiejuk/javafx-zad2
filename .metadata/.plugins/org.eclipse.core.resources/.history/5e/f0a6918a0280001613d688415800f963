@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?scenebuilder-preview-i18n-resource ../bundle/base.properties?>
+<?scenebuilder-stylesheet ../css/standard.css?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="400.0" prefWidth="500" xmlns="http://javafx.com/javafx/8.0.66" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.starterkit.javafx.controller.ImageViewerController">
+   <children>
+      <TilePane alignment="CENTER" layoutX="15.0" layoutY="14.0" prefHeight="373.0" prefWidth="474.0" tileAlignment="TOP_CENTER">
+         <children>
+            <Button fx:id="openButton" alignment="CENTER" mnemonicParsing="false" text="%button.open" />
+            <TextField fx:id="nameField" alignment="CENTER" prefHeight="31.0" prefWidth="374.0" />
+            <ImageView fx:id="imageView" fitHeight="101.0" fitWidth="209.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true" />
+         </children>
+      </TilePane>
+   </children>
+</AnchorPane>

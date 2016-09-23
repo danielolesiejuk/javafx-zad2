@@ -1,0 +1,7 @@
+# Default bundle, used when no bundle is found for specific language
+
+label.formTitle=Image Viewer
+
+button.open=Open
+
+table.emptyText=Empty.

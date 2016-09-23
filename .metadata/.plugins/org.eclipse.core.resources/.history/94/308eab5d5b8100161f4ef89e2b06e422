@@ -1,0 +1,269 @@
+package com.starterkit.javafx.controller;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.ResourceBundle;
+
+import org.apache.log4j.Logger;
+
+import javafx.animation.FadeTransition;
+import javafx.application.Platform;
+import javafx.beans.InvalidationListener;
+import javafx.beans.Observable;
+import javafx.beans.property.DoubleProperty;
+import javafx.beans.property.ObjectProperty;
+import javafx.beans.property.SimpleDoubleProperty;
+import javafx.beans.property.SimpleObjectProperty;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.event.ActionEvent;
+import javafx.event.Event;
+import javafx.event.EventHandler;
+import javafx.event.EventType;
+import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.geometry.Point2D;
+import javafx.geometry.Rectangle2D;
+import javafx.scene.Node;
+import javafx.scene.control.Button;
+import javafx.scene.control.ListView;
+import javafx.scene.control.ScrollPane;
+import javafx.scene.control.TextField;
+import javafx.scene.control.ToggleButton;
+import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.input.ScrollEvent;
+import javafx.scene.layout.StackPane;
+import javafx.scene.shape.Rectangle;
+import javafx.stage.DirectoryChooser;
+import javafx.util.Duration;
+
+/**
+ * Controller for the person search screen.
+ * <p>
+ * The JavaFX runtime will inject corresponding objects in the @FXML annotated
+ * fields. The @FXML annotated methods will be called by JavaFX runtime at
+ * specific points in time.
+ * </p>
+ *
+ * @author Leszek
+ */
+public class ImageViewerController {
+
+	private static final long TIMEOUT = 5000;
+	private static final long CALL_DELAY = 3000;
+
+	private static final double MAX_SCALE = 4;
+	private static final double MIN_SCALE = 3;
+
+	private boolean stopSlideShow;
+	protected static final double SCALE_FACTOR = 1.2;
+
+	final DoubleProperty zoomProperty = new SimpleDoubleProperty(200);
+
+	private static final Logger LOG = Logger.getLogger(ImageViewerController.class);
+
+	/**
+	 * Resource bundle loaded with this controller. JavaFX injects a resource
+	 * bundle specified in {@link FXMLLoader#load(URL, ResourceBundle)} call.
+	 * <p>
+	 * NOTE: The variable name must be {@code resources}.
+	 * </p>
+	 */
+	@FXML
+	private ResourceBundle resources;
+
+	/**
+	 * URL of the loaded FXML file. JavaFX injects an URL specified in
+	 * {@link FXMLLoader#load(URL, ResourceBundle)} call.
+	 * <p>
+	 * NOTE: The variable name must be {@code location}.
+	 * </p>
+	 */
+	@FXML
+	private URL location;
+
+	/**
+	 * JavaFX injects an object defined in FXML with the same "fx:id" as the
+	 * variable name.
+	 */
+	@FXML
+	private TextField nameField;
+
+	@FXML
+	private Button openButton;
+
+	@FXML
+	private Button nextButton;
+
+	@FXML
+	private Button prevButton;
+
+	@FXML
+	private Button slideShowButton;
+
+	@FXML
+	private Button stopSlideShowButton;
+
+	@FXML
+	private Button zoomInButton;
+
+	@FXML
+	private Button zoomOutButton;
+
+	@FXML
+	private ImageView imageView;
+
+	@FXML
+	private ListView<Path> listView;
+
+	@FXML
+	private ScrollPane scrollPane;
+
+	public ImageViewerController() {
+		LOG.debug("Constructor: nameField = " + nameField);
+	}
+
+	@FXML
+	private void initialize() throws FileNotFoundException {
+		LOG.debug("initialize(): nameField = " + nameField);
+		MouseEvent arg0 = null;
+		handleZoomScroll(arg0);
+
+	};
+
+	@FXML
+	public void handleOpenButonClick(MouseEvent arg0) {
+		ObservableList<Path> imageFiles = FXCollections.observableArrayList();
+		// EventHandler<ActionEvent> loadHandler = event ->
+		// imageFiles.setAll(load(Paths.get(nameField.getText())));
+		// nameField.setOnAction(loadHandler);
+		File filePath = new File(
+				"C:/Projects/StarterKit/javafx/zadanie2/javafx/src/main/resources/com/starterkit/javafx/imagetest/");
+		DirectoryChooser directoryChooser = new DirectoryChooser();
+		directoryChooser.setTitle("This is my directory chooser");
+		directoryChooser.setInitialDirectory(filePath);
+
+		// Show open file dialog
+		File file = directoryChooser.showDialog(null);
+		if (file != null) {
+			nameField.setText(file.getPath());
+			imageFiles.setAll(load(file.toPath()));
+			listView.setItems(imageFiles);
+		}
+	}
+
+	@FXML
+	public void handleMouseClick(MouseEvent arg0) {
+
+		String pathToImage = nameField.getText() + "\\" + listView.getSelectionModel().getSelectedItem().toString();
+		System.out.println("clicked on " + pathToImage);
+		File file = new File(pathToImage);
+
+		Image image = new Image(file.toURI().toString());
+
+		// listView.getSelectionModel().selectedItemProperty().addListener((obs,
+		// oldSelection, newSelection) -> {
+		// if (newSelection != null) {
+		imageView.setImage(image);
+		// imageView.setFitHeight(0);
+		// imageView.setFitWidth(0);
+		// imageView.setPreserveRatio(true);
+		// }
+		// });
+	}
+
+	@FXML
+	public void handleNextButtonClick(MouseEvent arg0) {
+		listView.getSelectionModel().selectNext();
+		handleMouseClick(arg0);
+	}
+
+	@FXML
+	public void handlePrevButtonClick(MouseEvent arg0) {
+		listView.getSelectionModel().selectPrevious();
+		handleMouseClick(arg0);
+	}
+
+	@FXML
+	public void handleSlideshowButtonClick(MouseEvent arg0) throws InterruptedException {
+
+		Runnable backgroundTask = new Runnable() {
+
+			@Override
+			public void run() {
+				for (int item = 0; item < listView.getItems().size(); item++) {
+					listView.getSelectionModel().select(item);
+					handleMouseClick(arg0);
+					try {
+						Thread.sleep(1000);
+					} catch (InterruptedException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+
+					if (stopSlideShow) {
+						return;
+					}
+				}
+
+			}
+		};
+
+		new Thread(backgroundTask).start();
+
+	}
+
+	@FXML
+	public void handleStopSlideshowButtonClick(MouseEvent arg0) {
+
+		if (arg0.getClickCount() == 1) {
+			LOG.debug("Slideshow canceled...");
+			this.stopSlideShow = true;
+
+		}
+	}
+
+	public void handleZoomScroll(MouseEvent arg0) throws IllegalArgumentException {
+
+		zoomProperty.addListener(new InvalidationListener() {
+			@Override
+			public void invalidated(Observable arg0) {
+				imageView.setFitWidth(zoomProperty.get() * MAX_SCALE);
+				imageView.setFitHeight(zoomProperty.get() * MIN_SCALE);
+			}
+		});
+
+		scrollPane.addEventFilter(ScrollEvent.ANY, new EventHandler<ScrollEvent>() {
+			@Override
+			public void handle(ScrollEvent event) {
+				if (event.getDeltaY() > 0) {
+					zoomProperty.set(zoomProperty.get() * SCALE_FACTOR);
+				} else if (event.getDeltaY() < 0) {
+					zoomProperty.set(zoomProperty.get() / SCALE_FACTOR);
+				}
+			}
+		});
+	}
+
+
+	private List<Path> load(Path directory) {
+		List<Path> files = new ArrayList<>();
+		try {
+			Files.newDirectoryStream(directory, "*.{jpg,jpeg,png,gif,JPG,JPEG,PNG,GIF}")
+					.forEach(file -> files.add(file.getFileName()));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return files;
+	}
+
+};

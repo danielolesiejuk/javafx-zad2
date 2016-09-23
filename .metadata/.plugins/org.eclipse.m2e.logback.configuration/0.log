@@ -1,0 +1,1395 @@
+2016-09-21 11:48:03,908 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.starterkit:javafx:0.0.1-SNAPSHOT @ C:\Projects\StarterKit\javafx\zadanie2\javafx\pom.xml.
+2016-09-21 11:48:04,765 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx/src/main/java
+2016-09-21 11:48:04,766 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /javafx/src/main/resources
+2016-09-21 11:48:04,767 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx/src/test/java
+2016-09-21 11:48:04,890 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-09-21 11:48:12,151 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 11:48:12,160 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-09-21 11:48:12,195 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 11:48:12,195 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 11:49:20,179 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-21 11:49:20,885 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.starterkit:javafx:0.0.1-SNAPSHOT @ C:\Projects\StarterKit\javafx\zadanie2\javafx\pom.xml.
+2016-09-21 11:49:21,066 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx/src/main/java
+2016-09-21 11:49:21,066 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /javafx/src/main/resources
+2016-09-21 11:49:21,067 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /javafx/src/test/java
+2016-09-21 11:49:21,603 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-09-21 11:49:23,120 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 11:49:23,121 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-09-21 11:49:23,158 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 11:49:23,158 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:22:49,121 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:22:49,135 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 13:22:49,147 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:22:49,147 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:24:02,740 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:24:02,746 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 13:24:02,754 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:24:02,754 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:24:15,675 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:24:15,677 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 13:24:15,679 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:24:15,680 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:41:15,611 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:41:15,619 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-09-21 13:41:15,636 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:41:15,636 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:52:10,961 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:52:10,967 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 13:52:10,982 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:52:10,982 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:52:28,112 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:52:28,118 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 13:52:28,128 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:52:28,128 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:53:15,870 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:53:15,874 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 13:53:15,883 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:53:15,884 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:54:22,306 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:54:22,307 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 13:54:22,318 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:54:22,318 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:58:50,804 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:58:50,807 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 13:58:50,820 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:58:50,820 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 13:59:34,335 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:59:34,339 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 13:59:34,357 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 13:59:34,357 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:01:08,559 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:01:08,559 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 14:01:08,568 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:01:08,568 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:06:44,135 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:06:44,139 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:06:44,151 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:06:44,152 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:10:29,361 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:10:29,366 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:10:29,376 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:10:29,376 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:15:53,347 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:15:53,350 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:15:53,363 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:15:53,363 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:17:38,724 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:17:38,726 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:17:38,733 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:17:38,734 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:20:32,920 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:20:32,922 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:20:32,934 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:20:32,935 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:20:37,387 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:20:37,389 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:20:37,391 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:20:37,392 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:20:46,313 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:20:46,315 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:20:46,317 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:20:46,317 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:21:57,452 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:21:57,454 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:21:57,467 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:21:57,467 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:22:00,313 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:22:00,314 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:22:00,316 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:22:00,316 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:22:24,449 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:22:24,451 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:22:24,453 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:22:24,453 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:23:13,710 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:23:13,714 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:23:13,731 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:23:13,731 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:23:22,876 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:23:22,878 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:23:22,880 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:23:22,880 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:23:57,306 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:23:57,308 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:23:57,315 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:23:57,315 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:24:21,833 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:24:21,834 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:24:21,836 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:24:21,836 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:25:41,962 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:25:41,964 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:25:41,974 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:25:41,974 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:25:44,859 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:25:44,860 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:25:44,862 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:25:44,862 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:25:52,739 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:25:52,742 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:25:52,746 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:25:52,747 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:29:12,275 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:29:12,277 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:29:12,286 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:29:12,286 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:33:05,129 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:33:05,132 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:33:05,143 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:33:05,143 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:33:05,321 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:33:05,321 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 14:33:05,322 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:33:05,322 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:33:45,152 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:33:45,155 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:33:45,163 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:33:45,163 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:34:56,735 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:34:56,738 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:34:56,744 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:34:56,745 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:35:36,097 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:35:36,101 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:35:36,109 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:35:36,109 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:35:46,920 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:35:46,923 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:35:46,927 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:35:46,928 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:36:12,146 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:36:12,148 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:36:12,155 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:36:12,156 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:36:24,901 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:36:24,904 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:36:24,907 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:36:24,907 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:37:06,985 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:37:06,988 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:37:06,996 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:37:06,996 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:39:09,066 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:39:09,069 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:39:09,076 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:39:09,076 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:39:24,314 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:39:24,316 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:39:24,318 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:39:24,318 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:40:23,009 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:40:23,011 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:40:23,020 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:40:23,020 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:41:10,596 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:41:10,600 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:41:10,608 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:41:10,608 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:41:47,852 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:41:47,855 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:41:47,866 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:41:47,866 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:42:10,143 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:42:10,144 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:42:10,146 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:42:10,146 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:42:38,013 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:42:38,015 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:42:38,022 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:42:38,022 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:42:42,717 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:42:42,719 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:42:42,720 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:42:42,720 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:43:08,648 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:43:08,650 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:43:08,657 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:43:08,658 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:43:22,378 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:43:22,380 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:43:22,383 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:43:22,383 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:44:39,247 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:44:39,249 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:44:39,258 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:44:39,258 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:45:18,929 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:45:18,932 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:45:18,943 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:45:18,943 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:46:41,656 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:46:41,658 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:46:41,666 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:46:41,666 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:46:59,479 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:46:59,480 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:46:59,482 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:46:59,482 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:50:43,927 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:50:43,930 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:50:43,937 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:50:43,938 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 14:50:54,809 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:50:54,811 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 14:50:54,813 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 14:50:54,814 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:03:17,773 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:03:17,780 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 15:03:17,795 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:03:17,796 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:10:07,193 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:10:07,195 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 15:10:07,203 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:10:07,203 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:14:09,542 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:14:09,545 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 15:14:09,552 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:14:09,552 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:14:59,824 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:14:59,827 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 15:14:59,834 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:14:59,835 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:15:22,862 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:15:22,864 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 15:15:22,866 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:15:22,866 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:18:38,488 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:18:38,491 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-09-21 15:18:38,503 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:18:38,504 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:18:38,671 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:18:38,672 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 15:18:38,675 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:18:38,676 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:19:14,389 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:19:14,389 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 15:19:14,395 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:19:14,395 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:20:12,412 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:20:12,413 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 15:20:12,420 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:20:12,420 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:21:11,884 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:21:11,885 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 15:21:11,890 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:21:11,891 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:36:24,458 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:36:24,461 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 15:36:24,482 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:36:24,482 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:38:30,290 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:38:30,293 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 15:38:30,303 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:38:30,303 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:44:57,698 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:44:57,701 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 15:44:57,710 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:44:57,710 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:45:06,468 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:45:06,470 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 15:45:06,472 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:45:06,472 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:45:52,682 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:45:52,685 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 15:45:52,694 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:45:52,695 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:51:25,516 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:51:25,517 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 15:51:25,525 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:51:25,526 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:51:48,632 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:51:48,632 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 15:51:48,633 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:51:48,634 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:54:17,900 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:54:17,900 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 15:54:17,908 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:54:17,908 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:56:51,120 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:56:51,123 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 15:56:51,132 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:56:51,132 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 15:57:13,101 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:57:13,103 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 15:57:13,105 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 15:57:13,105 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:17:39,556 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:17:39,556 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 16:17:39,562 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:17:39,562 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:18:13,195 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:18:13,195 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 16:18:13,202 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:18:13,202 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:19:32,829 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:19:32,830 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 16:19:32,838 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:19:32,840 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:19:56,655 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:19:56,663 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 16:19:56,672 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:19:56,672 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:27:09,882 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:27:09,885 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 16:27:09,894 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:27:09,894 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:36:09,053 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:36:09,056 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 16:36:09,065 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:36:09,066 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:36:15,368 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:36:15,370 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 16:36:15,372 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:36:15,372 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:50:11,977 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:50:11,978 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 16:50:11,987 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:50:11,987 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:50:17,090 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:50:17,093 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 16:50:17,102 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:50:17,102 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:53:28,282 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:53:28,285 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 16:53:28,294 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:53:28,294 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 16:56:03,200 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:56:03,203 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 16:56:03,212 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 16:56:03,212 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:02:07,242 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:02:07,246 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:02:07,258 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:02:07,258 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:04:53,598 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:04:53,601 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:04:53,611 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:04:53,611 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:05:19,238 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:05:19,239 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:05:19,241 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:05:19,241 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:06:27,519 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:06:27,522 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:06:27,532 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:06:27,532 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:07:06,921 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:07:06,925 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:07:06,935 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:07:06,935 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:11:08,049 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:11:08,052 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:11:08,061 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:11:08,061 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:11:53,762 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:11:53,765 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:11:53,774 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:11:53,775 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:15:45,401 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:15:45,404 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:15:45,413 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:15:45,413 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:20:21,590 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:20:21,593 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:20:21,603 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:20:21,603 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:22:14,454 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:22:14,457 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:22:14,466 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:22:14,466 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:26:21,780 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:26:21,783 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:26:21,795 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:26:21,795 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:26:48,629 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:26:48,630 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:26:48,632 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:26:48,632 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:27:36,669 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:27:36,672 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:27:36,681 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:27:36,681 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:27:54,578 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:27:54,579 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:27:54,581 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:27:54,581 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:31:57,632 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:31:57,632 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 17:31:57,639 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:31:57,639 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:32:03,856 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:32:03,859 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:32:03,866 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:32:03,867 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:32:14,147 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:32:14,148 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:32:14,150 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:32:14,150 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:35:19,037 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:35:19,040 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:35:19,049 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:35:19,050 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:35:25,165 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:35:25,167 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:35:25,168 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:35:25,169 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:38:26,645 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:38:26,648 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:38:26,659 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:38:26,659 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:40:30,034 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:40:30,037 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:40:30,046 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:40:30,046 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:43:21,088 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:43:21,092 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:43:21,102 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:43:21,102 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:44:54,276 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:44:54,279 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:44:54,289 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:44:54,289 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:45:29,460 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:45:29,463 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:45:29,472 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:45:29,473 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:45:44,589 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:45:44,591 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:45:44,593 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:45:44,593 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:47:04,945 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:47:04,948 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:47:04,966 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:47:04,966 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:47:05,143 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:47:05,143 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-21 17:47:05,144 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:47:05,144 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:47:55,244 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:47:55,247 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:47:55,255 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:47:55,255 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:48:25,600 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:48:25,603 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:48:25,612 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:48:25,612 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-21 17:48:30,206 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:48:30,207 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-21 17:48:30,209 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-21 17:48:30,209 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 07:50:11,174 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 07:50:11,186 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-22 07:50:11,207 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 07:50:11,207 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:08:00,430 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:08:00,443 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:08:00,482 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:08:00,482 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:11:02,345 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:11:02,346 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 08:11:02,359 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:11:02,359 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:18:42,752 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:18:42,759 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:18:42,772 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:18:42,773 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:18:59,831 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:18:59,834 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:18:59,840 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:18:59,840 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:21:56,295 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:21:56,301 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:21:56,312 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:21:56,313 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:25:54,456 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:25:54,462 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:25:54,474 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:25:54,474 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:31:20,372 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:31:20,378 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:31:20,392 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:31:20,392 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:32:24,884 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:32:24,890 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:32:24,901 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:32:24,901 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:33:49,903 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:33:49,910 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:33:49,923 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:33:49,923 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:37:48,196 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:37:48,202 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:37:48,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:37:48,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:38:11,346 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:38:11,348 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:38:11,351 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:38:11,351 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:39:55,076 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:39:55,082 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:39:55,094 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:39:55,094 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:40:53,257 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:40:53,262 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:40:53,275 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:40:53,275 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:44:48,265 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:44:48,271 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:44:48,283 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:44:48,284 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:45:24,700 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:45:24,709 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:45:24,727 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:45:24,727 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:45:31,239 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:45:31,241 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:45:31,244 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:45:31,245 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:46:45,939 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:46:45,945 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:46:45,957 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:46:45,957 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:47:01,847 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:47:01,849 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:47:01,852 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:47:01,853 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:47:05,625 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:47:05,627 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 08:47:05,630 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:47:05,630 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 08:49:10,134 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:49:10,135 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 08:49:10,144 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 08:49:10,144 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 13:10:07,425 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:10:07,435 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 13:10:07,451 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:10:07,451 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 13:10:39,858 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:10:39,858 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 13:10:39,888 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:10:39,888 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 13:33:14,724 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:33:14,726 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 13:33:14,739 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:33:14,740 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 13:59:38,769 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:59:38,775 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 13:59:38,791 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 13:59:38,791 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:00:13,492 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:00:13,492 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 14:00:13,505 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:00:13,506 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:01:45,723 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:01:45,729 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:01:45,742 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:01:45,742 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:01:52,896 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:01:52,898 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:01:52,901 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:01:52,901 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:03:42,806 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:03:42,807 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 14:03:42,816 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:03:42,817 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:09:10,860 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:09:10,863 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:09:10,875 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:09:10,875 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:18:34,611 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:18:34,614 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:18:34,626 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:18:34,626 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:19:10,194 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:19:10,196 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:19:10,208 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:19:10,209 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:21:41,732 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:21:41,732 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 14:21:41,739 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:21:41,739 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:23:13,208 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:23:13,211 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:23:13,223 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:23:13,223 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:23:32,482 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:23:32,484 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:23:32,487 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:23:32,487 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:24:51,249 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:24:51,252 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:24:51,266 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:24:51,267 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:29:27,319 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:29:27,323 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:29:27,336 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:29:27,336 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:30:16,051 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:30:16,054 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:30:16,066 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:30:16,066 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:32:22,569 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:32:22,572 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:32:22,584 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:32:22,584 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:39:07,080 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:39:07,083 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:39:07,096 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:39:07,096 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:41:06,582 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:41:06,585 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:41:06,598 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:41:06,598 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:41:10,700 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:41:10,702 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:41:10,706 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:41:10,707 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:42:12,506 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:42:12,509 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:42:12,521 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:42:12,521 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:42:51,210 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:42:51,213 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:42:51,223 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:42:51,223 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:45:53,995 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:45:53,998 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:45:54,010 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:45:54,010 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:46:21,532 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:46:21,534 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:46:21,537 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:46:21,537 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:46:58,782 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:46:58,785 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:46:58,797 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:46:58,797 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:49:41,136 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:49:41,139 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:49:41,152 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:49:41,152 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:49:50,450 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:49:50,452 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:49:50,455 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:49:50,455 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:51:42,649 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:51:42,653 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:51:42,665 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:51:42,665 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:53:34,168 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:53:34,171 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:53:34,183 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:53:34,183 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:54:26,712 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:54:26,715 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:54:26,728 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:54:26,728 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:55:02,100 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:55:02,103 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:55:02,115 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:55:02,115 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:55:30,660 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:55:30,662 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:55:30,665 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:55:30,665 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:56:54,896 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:56:54,899 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:56:54,911 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:56:54,911 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:56:58,041 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:56:58,043 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:56:58,046 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:56:58,046 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 14:59:01,177 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:59:01,180 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 14:59:01,192 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 14:59:01,192 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:00:32,704 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:00:32,707 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:00:32,719 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:00:32,719 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:00:59,853 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:00:59,855 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:00:59,858 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:00:59,858 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:01:24,616 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:01:24,619 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:01:24,630 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:01:24,631 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:41:48,058 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:41:48,061 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:41:48,074 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:41:48,074 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:43:50,900 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:43:50,904 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:43:50,917 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:43:50,917 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:44:17,132 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:44:17,133 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:44:17,137 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:44:17,137 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:46:05,549 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:46:05,551 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:46:05,563 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:46:05,564 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:47:19,953 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:47:19,956 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:47:19,968 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:47:19,969 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:47:29,713 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:47:29,716 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:47:29,720 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:47:29,720 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:48:04,572 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:48:04,575 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:48:04,586 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:48:04,586 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:49:32,448 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:49:32,451 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:49:32,465 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:49:32,465 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:52:24,627 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:52:24,630 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:52:24,642 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:52:24,642 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:58:15,067 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:58:15,070 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:58:15,083 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:58:15,083 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:58:40,108 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:58:40,110 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:58:40,113 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:58:40,113 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 15:59:57,126 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:59:57,129 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 15:59:57,141 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 15:59:57,141 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:00:02,659 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:02,661 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:00:02,663 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:02,664 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:00:08,205 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:08,207 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:00:08,210 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:08,211 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:00:31,262 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:31,265 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:00:31,277 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:31,277 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:00:53,920 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:53,922 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:00:53,926 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:00:53,927 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:01:54,485 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:01:54,488 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:01:54,500 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:01:54,500 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:02:16,254 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:02:16,256 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:02:16,259 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:02:16,259 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:02:24,716 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:02:24,719 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:02:24,729 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:02:24,729 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:03:31,082 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:03:31,085 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:03:31,097 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:03:31,097 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:03:58,762 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:03:58,764 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:03:58,767 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:03:58,767 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:06:05,157 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:06:05,160 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:06:05,172 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:06:05,172 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:06:23,761 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:06:23,764 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:06:23,767 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:06:23,767 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:08:00,513 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:08:00,516 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:08:00,529 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:08:00,529 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:08:29,310 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:08:29,312 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:08:29,315 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:08:29,315 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:13:40,810 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:13:40,813 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:13:40,825 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:13:40,825 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:14:18,034 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:14:18,037 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:14:18,050 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:14:18,050 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:15:10,380 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:15:10,383 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:15:10,395 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:15:10,395 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:16:13,652 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:16:13,657 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:16:13,672 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:16:13,672 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:17:45,550 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:17:45,553 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:17:45,564 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:17:45,564 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:18:06,094 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:18:06,094 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 16:18:06,098 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:18:06,098 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:20:00,286 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:20:00,290 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:20:00,302 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:20:00,302 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:20:10,886 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:20:10,888 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:20:10,891 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:20:10,891 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:20:51,282 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:20:51,285 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:20:51,295 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:20:51,295 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:21:24,404 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:21:24,407 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:21:24,419 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:21:24,419 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:22:50,622 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:22:50,625 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:22:50,635 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:22:50,635 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:22:58,543 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:22:58,545 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:22:58,549 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:22:58,549 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:23:31,804 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:23:31,807 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:23:31,819 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:23:31,819 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:23:37,863 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:23:37,865 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:23:37,868 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:23:37,868 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:27:34,004 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:27:34,007 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:27:34,019 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:27:34,020 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:27:40,767 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:27:40,769 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:27:40,771 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:27:40,771 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:28:23,385 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:28:23,388 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:28:23,399 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:28:23,399 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:28:52,892 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:28:52,894 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:28:52,896 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:28:52,897 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:29:28,777 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:29:28,779 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:29:28,791 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:29:28,791 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:30:31,497 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:30:31,500 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:30:31,512 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:30:31,512 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:31:01,812 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:31:01,815 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:31:01,826 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:31:01,826 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:31:15,299 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:31:15,301 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:31:15,304 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:31:15,304 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:33:07,444 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:33:07,447 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:33:07,462 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:33:07,462 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:33:09,386 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:33:09,388 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:33:09,390 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:33:09,391 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:34:23,827 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:34:23,827 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 16:34:23,832 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:34:23,832 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:34:48,595 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:34:48,598 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:34:48,610 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:34:48,610 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:35:27,440 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:35:27,443 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:35:27,452 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:35:27,453 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:37:26,737 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:37:26,740 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:37:26,752 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:37:26,752 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:38:15,341 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:38:15,344 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:38:15,356 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:38:15,356 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:38:17,160 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:38:17,161 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:38:17,164 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:38:17,164 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:38:27,454 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:38:27,456 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:38:27,459 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:38:27,459 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:39:32,535 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:39:32,538 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:39:32,549 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:39:32,549 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:39:45,988 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:39:45,990 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:39:45,992 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:39:45,993 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:40:14,792 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:40:14,792 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 16:40:14,794 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:40:14,794 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:43:54,843 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:43:54,846 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:43:54,858 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:43:54,858 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:44:57,663 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:44:57,666 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:44:57,678 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:44:57,678 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:44:59,321 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:44:59,323 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:44:59,326 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:44:59,326 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:46:56,925 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:46:56,928 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:46:56,940 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:46:56,940 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:47:09,869 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:09,871 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:47:09,874 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:09,874 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:47:14,929 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:14,933 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:47:14,936 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:14,936 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:47:50,556 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:50,559 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:47:50,570 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:50,570 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:47:59,577 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:59,579 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:47:59,582 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:47:59,582 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 16:48:55,977 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:48:55,980 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 16:48:55,992 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 16:48:55,992 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:25:56,039 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:25:56,043 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:25:56,055 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:25:56,055 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:26:29,790 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:26:29,790 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 17:26:29,796 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:26:29,797 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:33:39,523 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:33:39,526 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:33:39,538 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:33:39,538 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:37:21,092 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:37:21,095 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:37:21,107 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:37:21,107 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:37:33,645 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:37:33,647 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:37:33,650 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:37:33,650 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:37:43,370 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:37:43,372 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:37:43,374 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:37:43,374 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:40:08,970 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:40:08,973 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:40:08,985 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:40:08,985 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:43:43,273 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:43:43,276 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:43:43,289 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:43:43,289 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:44:23,295 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:44:23,298 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:44:23,309 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:44:23,309 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:46:19,305 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:46:19,308 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:46:19,320 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:46:19,320 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:46:27,670 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:46:27,672 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:46:27,675 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:46:27,675 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:47:19,184 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:47:19,185 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 17:47:19,191 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:47:19,191 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:48:27,111 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:48:27,113 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:48:27,125 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:48:27,125 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:48:50,390 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:48:50,392 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:48:50,397 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:48:50,398 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:49:07,790 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:49:07,792 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:49:07,802 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:49:07,802 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:49:45,318 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:49:45,321 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:49:45,334 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:49:45,334 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:50:04,099 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:50:04,101 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:50:04,106 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:50:04,106 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:50:41,205 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:50:41,208 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:50:41,221 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:50:41,221 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:51:07,955 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:51:07,956 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:51:07,959 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:51:07,959 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:51:49,302 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:51:49,305 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:51:49,317 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:51:49,317 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:52:23,503 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:52:23,506 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:52:23,521 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:52:23,521 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:52:30,427 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:52:30,429 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:52:30,431 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:52:30,431 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:53:27,266 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:53:27,268 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:53:27,279 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:53:27,279 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:54:38,376 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:54:38,379 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 17:54:38,391 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:54:38,391 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:55:11,117 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:55:11,118 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 17:55:11,124 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:55:11,124 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 17:59:14,780 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:59:14,780 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 17:59:14,786 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 17:59:14,786 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:00:54,560 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:00:54,563 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 18:00:54,574 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:00:54,574 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:02:16,528 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:02:16,531 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 18:02:16,543 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:02:16,543 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:02:25,591 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:02:25,593 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 18:02:25,595 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:02:25,595 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:02:49,619 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:02:49,620 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-22 18:02:49,627 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:02:49,627 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:04:17,407 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:04:17,410 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 18:04:17,422 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:04:17,422 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:04:29,365 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:04:29,367 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 18:04:29,370 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:04:29,370 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:04:46,367 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:04:46,368 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 18:04:46,371 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:04:46,371 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-22 18:05:06,521 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:05:06,524 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-22 18:05:06,536 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-22 18:05:06,536 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:40:44,103 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:40:44,112 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-23 08:40:44,149 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:40:44,150 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:40:45,781 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:40:45,794 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:40:45,799 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:40:45,799 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:41:46,250 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:41:46,252 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-23 08:41:46,261 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:41:46,262 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:49:31,751 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:49:31,756 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:49:31,772 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:49:31,773 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:52:01,232 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:52:01,236 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:52:01,251 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:52:01,251 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:52:41,927 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:52:41,928 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-23 08:52:41,935 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:52:41,935 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:55:14,388 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:55:14,393 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:55:14,408 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:55:14,408 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:55:55,123 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:55:55,126 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:55:55,139 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:55:55,139 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:56:19,857 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:56:19,860 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:56:19,865 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:56:19,865 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:58:02,507 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:58:02,516 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:58:02,535 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:58:02,536 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 08:59:32,490 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:59:32,494 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 08:59:32,507 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 08:59:32,507 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:00:10,001 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:00:10,005 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:00:10,024 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:00:10,024 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:00:45,158 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:00:45,161 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:00:45,173 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:00:45,173 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:01:06,430 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:01:06,433 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:01:06,436 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:01:06,436 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:02:25,737 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:02:25,737 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-23 09:02:25,743 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:02:25,743 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:02:50,597 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:02:50,598 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-23 09:02:50,603 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:02:50,603 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:09:33,282 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:09:33,286 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:09:33,299 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:09:33,299 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:09:38,925 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:09:38,927 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:09:38,931 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:09:38,932 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:09:56,875 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:09:56,877 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:09:56,883 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:09:56,883 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:10:25,690 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:25,696 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:10:25,712 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:25,712 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:10:27,866 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:27,868 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:10:27,874 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:27,874 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:10:30,499 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:30,501 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-09-23 09:10:30,506 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:30,506 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:10:40,537 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:40,537 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-23 09:10:40,539 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:40,540 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:10:44,885 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:44,886 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-23 09:10:44,887 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:44,887 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:10:51,865 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:51,866 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-09-23 09:10:51,868 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:51,868 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:10:59,223 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:59,224 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-23 09:10:59,227 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:10:59,227 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:11:03,988 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:11:03,989 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-23 09:11:03,991 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:11:03,992 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:11:36,018 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:11:36,018 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-23 09:11:36,019 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:11:36,019 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:11:39,387 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:11:39,387 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-23 09:11:39,387 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:11:39,388 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:13,937 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:13,940 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:13,952 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:13,953 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:24,761 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:24,764 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:24,768 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:24,768 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:28,662 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:28,666 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:28,674 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:28,674 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:30,006 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:30,007 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:30,010 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:30,010 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:31,150 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:31,154 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:31,159 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:31,159 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:34,622 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:34,624 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:34,627 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:34,627 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:36,029 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:36,030 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:36,034 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:36,035 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:38,212 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:38,214 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:38,218 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:38,218 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:17:40,582 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:40,584 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:17:40,589 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:17:40,590 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:18:16,062 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:16,063 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:18:16,070 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:16,070 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:18:22,735 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:22,736 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:18:22,742 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:22,742 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:18:44,766 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:44,769 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:18:44,771 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:44,771 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 09:18:55,814 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:55,817 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 09:18:55,824 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 09:18:55,824 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:10:59,348 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:10:59,354 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:10:59,369 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:10:59,371 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:12:18,267 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:12:18,269 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:12:18,280 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:12:18,280 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:25:20,579 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:25:20,580 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:25:20,593 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:25:20,593 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:27:26,818 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:27:26,821 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:27:26,831 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:27:26,831 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:29:00,957 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:29:00,959 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:29:00,974 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:29:00,974 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:33:33,368 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:33:33,370 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:33:33,379 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:33:33,379 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:35:32,037 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:35:32,039 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:35:32,046 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:35:32,048 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:36:10,888 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:36:10,892 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:36:10,900 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:36:10,901 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:37:26,755 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:37:26,757 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:37:26,767 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:37:26,767 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:39:35,386 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:39:35,388 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:39:35,398 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:39:35,398 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:41:42,635 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:41:42,638 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:41:42,646 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:41:42,646 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:42:09,779 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:42:09,781 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:42:09,786 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:42:09,786 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:45:56,500 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:45:56,504 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:45:56,511 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:45:56,511 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:48:05,098 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:48:05,100 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:48:05,107 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:48:05,108 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:49:50,434 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:49:50,436 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:49:50,445 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:49:50,445 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:50:25,878 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:50:25,879 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:50:25,890 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:50:25,890 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:51:27,121 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:51:27,124 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:51:27,135 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:51:27,135 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:51:35,349 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:51:35,351 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:51:35,354 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:51:35,354 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:52:00,460 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:52:00,463 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:52:00,470 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:52:00,470 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:54:11,122 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:54:11,124 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:54:11,133 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:54:11,134 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:55:20,734 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:55:20,736 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:55:20,753 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:55:20,753 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:55:45,640 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:55:45,642 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:55:45,647 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:55:45,648 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:56:42,038 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:56:42,039 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:56:42,049 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:56:42,049 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:57:18,355 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:57:18,358 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:57:18,367 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:57:18,368 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources
+2016-09-23 10:58:52,178 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:58:52,182 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2016-09-23 10:58:52,189 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-23 10:58:52,190 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\StarterKit\javafx\zadanie2\javafx\src\test\resources

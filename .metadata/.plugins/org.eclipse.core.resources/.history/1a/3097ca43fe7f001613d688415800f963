@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?scenebuilder-preview-i18n-resource ../bundle/base.properties?>
+<?scenebuilder-stylesheet ../css/standard.css?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="400.0" prefWidth="500" xmlns="http://javafx.com/javafx/8.0.66" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.starterkit.javafx.controller.ImageViewerController">
+   <children>
+      <TilePane alignment="CENTER" layoutX="15.0" layoutY="14.0" orientation="VERTICAL" prefHeight="373.0" prefWidth="471.0">
+         <children>
+            <ToggleButton fx:id="openButton" mnemonicParsing="false" text="%button.open" />
+            <TextField fx:id="nameField" prefHeight="31.0" prefWidth="374.0" />
+         </children>
+      </TilePane>
+   </children>
+</AnchorPane>
