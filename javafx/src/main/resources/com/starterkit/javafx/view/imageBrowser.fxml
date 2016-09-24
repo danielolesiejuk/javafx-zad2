@@ -17,6 +17,7 @@
             <ImageView fx:id="imageView" fitHeight="447.0" fitWidth="431.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true" />
          </content>
       </ScrollPane>
+      <!-- REV: lepiej uzywac onAction -->
       <Button fx:id="nextButton" alignment="CENTER" contentDisplay="CENTER" layoutX="206.0" layoutY="507.0" mnemonicParsing="false" onMouseClicked="#handleNextButtonClick" text="%button.next" />
       <Button fx:id="prevButton" alignment="CENTER" contentDisplay="CENTER" layoutX="50.0" layoutY="507.0" mnemonicParsing="false" onMouseClicked="#handlePrevButtonClick" prefHeight="31.0" prefWidth="147.0" text="%button.prev" />
       <Button fx:id="slideShowButton" alignment="CENTER" contentDisplay="CENTER" layoutX="50.0" layoutY="548.0" mnemonicParsing="false" onMouseClicked="#handleSlideshowButtonClick" text="%button.slideShow" />

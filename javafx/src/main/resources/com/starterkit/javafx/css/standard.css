@@ -10,7 +10,7 @@
 	-fx-alignment: center;
 }
 
-
+/* REV: nie ma takiego elementu */
 /* Select element by its "fx:id" attribute */
 #resultTable #birthDateColumn {
 	-fx-alignment: center-right;

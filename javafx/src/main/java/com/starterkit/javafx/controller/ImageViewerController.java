@@ -43,6 +43,7 @@ public class ImageViewerController {
 	final DoubleProperty zoomProperty = new SimpleDoubleProperty(200);
 
 	private static final Logger LOG = Logger.getLogger(ImageViewerController.class);
+	// REV: sciekza nie moze byc zahardcodowana
 	File filePath = new File(
 			"C:/Projects/StarterKit/javafx/zadanie2/javafx/src/main/resources/com/starterkit/javafx/imagetest/");
 
@@ -105,10 +106,12 @@ public class ImageViewerController {
 		ObservableList<Path> imageFiles = FXCollections.observableArrayList();
 		
 		DirectoryChooser directoryChooser = new DirectoryChooser();
+		// REV: tekst z bundla
 		directoryChooser.setTitle("This is my directory chooser");
 		directoryChooser.setInitialDirectory(filePath);
 		imageView.setImage(null);
 		// Show open file dialog
+		// REV: okno powinno byc modalne
 		File file = directoryChooser.showDialog(null);
 		if (file != null) {
 			nameField.setText(file.getPath());
@@ -118,11 +121,13 @@ public class ImageViewerController {
 		LOG.debug("Leaving OpenButonClick()");
 	}
 
+	// REV: lepiej podpiac changelistener pod selectedItem
 	@FXML
 	public void handleMouseClick(MouseEvent arg0) {
 		LOG.debug("Entering SelectMouseClick()");
 		if (!listView.getItems().isEmpty()) {
 			String pathToImage = nameField.getText() + "\\" + listView.getSelectionModel().getSelectedItem().toString();
+			// REV: zawsze uzywaj loggera
 			System.out.println("Clicked on " + pathToImage);
 			File file = new File(pathToImage);
 			Image image = new Image(file.toURI().toString());
@@ -165,6 +170,7 @@ public class ImageViewerController {
 					try {
 						Thread.sleep(CALL_DELAY);
 					} catch (InterruptedException e) {
+						// REV: zawsze uzywaj loggera
 						e.printStackTrace();
 					}
 
@@ -183,6 +189,7 @@ public class ImageViewerController {
 		LOG.debug("Entering StopSlideshowButtonClick()");
 		if (arg0.getClickCount() == 1) {
 			LOG.debug("Slideshow canceled...");
+			// REV: czy da sie odpalic slideshow drugi raz?
 			this.stopSlideShow = true;
 
 		}
@@ -191,6 +198,7 @@ public class ImageViewerController {
 
 	public void handleZoomScroll(MouseEvent arg0) throws IllegalArgumentException {
 		LOG.debug("Entering ZoomScroll()");
+		// REV: dlaczego InvalidationListener?
 		zoomProperty.addListener(new InvalidationListener() {
 			@Override
 			public void invalidated(Observable arg0) {
@@ -199,6 +207,7 @@ public class ImageViewerController {
 			}
 		});
 
+		// REV: dlaczego EventFilter?
 		scrollPane.addEventFilter(ScrollEvent.ANY, new EventHandler<ScrollEvent>() {
 			@Override
 			public void handle(ScrollEvent event) {
@@ -218,6 +227,7 @@ public class ImageViewerController {
 			Files.newDirectoryStream(directory, "*.{jpg,jpeg,png,gif,JPG,JPEG,PNG,GIF}")
 					.forEach(file -> files.add(file.getFileName()));
 		} catch (IOException e) {
+			// REV: j.w.
 			e.printStackTrace();
 		}
 		return files;
