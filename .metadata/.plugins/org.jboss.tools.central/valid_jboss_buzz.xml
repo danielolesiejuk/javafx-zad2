@@ -2,13 +2,41 @@
 <?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
 <title>JBoss Central</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/1.9</generator>
-<updated>2016-07-29T17:22:08+00:00</updated>
+<updated>2016-07-30T01:26:51+00:00</updated>
 <id>http://tiny-man.rhcloud.com/public.php?op=rss&amp;id=1&amp;key=b0143615132bd9efc4e83ba42a5574f6ab939b28</id>
 
 
 <link href="http://tiny-man.rhcloud.com" rel="alternate" />
 
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://feeds.feedburner.com/jbossbuzz" /><feedburner:info uri="jbossbuzz" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><entry>
+	<id>https://developer.jboss.org/blogs/weekly-editorial/2016/09/24/this-week-in-jboss-september-24-2016</id>
+	<link href="http://feedproxy.google.com/~r/jbossbuzz/~3/JJ5tMncYpuE/this-week-in-jboss-september-24-2016" rel="alternate" type="text/html" />
+	<title>This Week in JBoss (September 24 2016)</title>
+	<summary type="html"><![CDATA[<!-- [DocumentBodyStart:ea5b1710-844d-4631-ad87-eded6b8859bb] --><div class="jive-rendered-content"><div><div class="paragraph"><p>It&#8217;s been a crazy week for the Java Community as a whole with major announcements happening at JavaOne in San Francisco! Java turned 21 this year! Java SE 9 continues to move closer. Java EE 8, is, well, postponed. The Java community continues to thrive and push out amazing technology, and so do we here at Red Hat!</p></div><div class="paragraph"><p>A number of announcements happened this week you&#8217;ll probably want to be aware of.</p><p style="min-height: 8pt; padding: 0px;">&#160;</p></div><div class="sect1"><h2>News</h2><div class="sectionbody"><div class="paragraph"><p>One of the largest announcements made, at least by Red Hat, was MicroProfile 1.0! A few months back, June to be precise, the MicroProfile was announced. Red Hat, along with IBM, TomiTribe, Payara, and LJC (and SouJava joined since) worked with the community to create a standard around microservices using Java EE. The 1.0 release of MicroProfile finished a few weeks early and there are six different implementations. Read more about MicroProfile at the <a class="jive-link-external-small" href="http://microprofile.io/blog/2016/09/microprofile-at-javaone" rel="nofollow">release blog</a>, or <a class="jive-link-external-small" href="http://planet.jboss.org/post/to_microprofile_1_0_and_beyond" rel="nofollow">Mark Little&#8217;s recap</a>.</p><p style="min-height: 8pt; padding: 0px;">&#160;</p></div><div class="paragraph"><p>Juraci Paix&atilde;o Kr&ouml;hling <a class="jive-link-external-small" href="http://planet.jboss.org/post/using_hawkular_apm_on_red_hat_s_microservices_reference_architecture_example" rel="nofollow">explained</a> how to use Hawkular APM in a microservice architecture earlier in the week. His post is informative and heavy on the details and explanation. Head on over if you fall into this camp and are looking for answers!</p><p style="min-height: 8pt; padding: 0px;">&#160;</p></div><div class="paragraph"><p>This last one may make some of you a bit squeamish, you have been warned. As of Keycloak 2.2.0 the <code>keycloak-server.json</code> stopped being shipped. All configuration is happening within <code>standalone.xml</code>, <code>standalone-ha.xml</code>, or <code>domain.xml</code>. JSON is often a preferred format, but Stan Silvert <a class="jive-link-external-small" href="http://planet.jboss.org/post/keycloak_server_json_rip" rel="nofollow">explained why XML is better in this instance</a> when he wrote about the demise of they <code>keycloak-server.json</code> a few days ago.</p><p style="min-height: 8pt; padding: 0px;">&#160;</p></div></div></div><div class="sect1"><h2>Releases</h2><div class="sectionbody"><div class="paragraph"><p>We&#8217;re always kicking out new releases of our software. Once again, this week was no different. Hibernate had a couple of releases this past week, ORM <a class="jive-link-external-small" href="https://hibernate.atlassian.net/secure/ReleaseNote.jspa?projectId=10031&amp;version=24050" rel="nofollow">5.0.11</a> and <a class="jive-link-external-small" href="https://hibernate.atlassian.net/secure/ReleaseNote.jspa?projectId=10031&amp;version=24051" rel="nofollow">5.1.2</a>. Byteman has a <a class="jive-link-external-small" href="http://planet.jboss.org/post/byteman_4_0_0_alpha_has_been_released" rel="nofollow">4.0.0-Alpha</a> release which allows Byteman to be used on JDK9! Of course, it continues to work on JDK6-8, and there is one small issue, but read the blog for more information. Lastly, <a class="jive-link-external-small" href="http://blog.keycloak.org/2016/09/keycloak-221final-released.html" rel="nofollow">Keycloak 2.2.1.Final</a> was released fixing an issue with the JavaScript adapter released in 2.2.0.</p><p style="min-height: 8pt; padding: 0px;">&#160;</p></div></div></div><div class="sect1"><h2>Events</h2><div class="sectionbody"><div class="paragraph"><p>Besides JavaOne this week, there were some other events we participated in, and some which are going to be happening!</p></div><div class="paragraph"><p>Eric Schabell <a class="jive-link-external-small" href="http://planet.jboss.org/post/red_hat_forum_finland_2016_why_change_why_open_source_why_red_hat_why_now" rel="nofollow">discussed Red Hat Forum going to Finland</a> this year. If you&#8217;re in that area you won&#8217;t want to miss him talking about Open Source, Red Hat and change. There are also some other great speakers lined up for these Red Hat Forums in Europe.</p><p style="min-height: 8pt; padding: 0px;">&#160;</p></div><div class="paragraph"><p>To round out our week, Eric Schabell and Claus Ibsen talked about their talks from this week or a couple of weeks ago. Claus attended JDKIO 2016 in Copenhagen where he discussed Apache Camel and Java based microservices. Read about his trip, or watch the recordings <a class="jive-link-external-small" href="http://planet.jboss.org/post/videos_from_my_two_latest_talks_about_apache_camel_and_developing_java_based_microservices" rel="nofollow">in his blog post</a>.</p><p style="min-height: 8pt; padding: 0px;">&#160;</p></div><div class="paragraph"><p>In London this week, Eric Schabell talked about private cloud at the London JBug. <a class="jive-link-external-small" href="http://planet.jboss.org/post/london_jbug_recap_a_night_of_appdev_and_private_cloud" rel="nofollow">His slides</a> are available for those interested.</p></div><div class="paragraph"><p>Thanks everyone for making this another wonderful week in tech! Stay tuned for more software, talks, and information as time goes on.</p></div></div></div></div><div><div>Last updated 2016-09-24 00:56:35 MDT</div></div></div><!-- [DocumentBodyEnd:ea5b1710-844d-4631-ad87-eded6b8859bb] -->]]></summary>
+	<content type="html">&lt;html&gt;&lt;!-- [DocumentBodyStart:ea5b1710-844d-4631-ad87-eded6b8859bb] --&gt;&lt;body&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;It&amp;rsquo;s been a crazy week for the Java Community as a whole with major announcements happening at JavaOne in San Francisco! Java turned 21 this year! Java SE 9 continues to move closer. Java EE 8, is, well, postponed. The Java community continues to thrive and push out amazing technology, and so do we here at Red Hat!&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;A number of announcements happened this week you&amp;rsquo;ll probably want to be aware of.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;h2&gt;News&lt;/h2&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;One of the largest announcements made, at least by Red Hat, was MicroProfile 1.0! A few months back, June to be precise, the MicroProfile was announced. Red Hat, along with IBM, TomiTribe, Payara, and LJC (and SouJava joined since) worked with the community to create a standard around microservices using Java EE. The 1.0 release of MicroProfile finished a few weeks early and there are six different implementations. Read more about MicroProfile at the &lt;a href="http://microprofile.io/blog/2016/09/microprofile-at-javaone" rel="nofollow" target="_blank"&gt;release blog&lt;/a&gt;, or &lt;a href="http://planet.jboss.org/post/to_microprofile_1_0_and_beyond" rel="nofollow" target="_blank"&gt;Mark Little&amp;rsquo;s recap&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Juraci Paix&amp;atilde;o Kr&amp;ouml;hling &lt;a href="http://planet.jboss.org/post/using_hawkular_apm_on_red_hat_s_microservices_reference_architecture_example" rel="nofollow" target="_blank"&gt;explained&lt;/a&gt; how to use Hawkular APM in a microservice architecture earlier in the week. His post is informative and heavy on the details and explanation. Head on over if you fall into this camp and are looking for answers!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;This last one may make some of you a bit squeamish, you have been warned. As of Keycloak 2.2.0 the &lt;code&gt;keycloak-server.json&lt;/code&gt; stopped being shipped. All configuration is happening within &lt;code&gt;standalone.xml&lt;/code&gt;, &lt;code&gt;standalone-ha.xml&lt;/code&gt;, or &lt;code&gt;domain.xml&lt;/code&gt;. JSON is often a preferred format, but Stan Silvert &lt;a href="http://planet.jboss.org/post/keycloak_server_json_rip" rel="nofollow" target="_blank"&gt;explained why XML is better in this instance&lt;/a&gt; when he wrote about the demise of they &lt;code&gt;keycloak-server.json&lt;/code&gt; a few days ago.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;h2&gt;Releases&lt;/h2&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;We&amp;rsquo;re always kicking out new releases of our software. Once again, this week was no different. Hibernate had a couple of releases this past week, ORM &lt;a href="https://hibernate.atlassian.net/secure/ReleaseNote.jspa?projectId=10031&amp;amp;version=24050" rel="nofollow" target="_blank"&gt;5.0.11&lt;/a&gt; and &lt;a href="https://hibernate.atlassian.net/secure/ReleaseNote.jspa?projectId=10031&amp;amp;version=24051" rel="nofollow" target="_blank"&gt;5.1.2&lt;/a&gt;. Byteman has a &lt;a href="http://planet.jboss.org/post/byteman_4_0_0_alpha_has_been_released" rel="nofollow" target="_blank"&gt;4.0.0-Alpha&lt;/a&gt; release which allows Byteman to be used on JDK9! Of course, it continues to work on JDK6-8, and there is one small issue, but read the blog for more information. Lastly, &lt;a href="http://blog.keycloak.org/2016/09/keycloak-221final-released.html" rel="nofollow" target="_blank"&gt;Keycloak 2.2.1.Final&lt;/a&gt; was released fixing an issue with the JavaScript adapter released in 2.2.0.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;h2&gt;Events&lt;/h2&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;Besides JavaOne this week, there were some other events we participated in, and some which are going to be happening!&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Eric Schabell &lt;a href="http://planet.jboss.org/post/red_hat_forum_finland_2016_why_change_why_open_source_why_red_hat_why_now" rel="nofollow" target="_blank"&gt;discussed Red Hat Forum going to Finland&lt;/a&gt; this year. If you&amp;rsquo;re in that area you won&amp;rsquo;t want to miss him talking about Open Source, Red Hat and change. There are also some other great speakers lined up for these Red Hat Forums in Europe.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;To round out our week, Eric Schabell and Claus Ibsen talked about their talks from this week or a couple of weeks ago. Claus attended JDKIO 2016 in Copenhagen where he discussed Apache Camel and Java based microservices. Read about his trip, or watch the recordings &lt;a href="http://planet.jboss.org/post/videos_from_my_two_latest_talks_about_apache_camel_and_developing_java_based_microservices" rel="nofollow" target="_blank"&gt;in his blog post&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;In London this week, Eric Schabell talked about private cloud at the London JBug. &lt;a href="http://planet.jboss.org/post/london_jbug_recap_a_night_of_appdev_and_private_cloud" rel="nofollow" target="_blank"&gt;His slides&lt;/a&gt; are available for those interested.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Thanks everyone for making this another wonderful week in tech! Stay tuned for more software, talks, and information as time goes on.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Last updated 2016-09-24 00:56:35 MDT&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- [DocumentBodyEnd:ea5b1710-844d-4631-ad87-eded6b8859bb] --&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;img src="http://feeds.feedburner.com/~r/jbossbuzz/~4/JJ5tMncYpuE" height="1" width="1" alt=""/&gt;</content>
+	<updated>2016-09-24T07:02:19+00:00</updated>
+	<author><name>Jason Porter</name></author>
+	<source>
+		<link rel="self" href="http://community.jboss.org/blogs/weekly-editorial/feeds/" />
+		<title>Weekly Editorial</title></source>
+
+	<category term="byteman" />
+
+	<category term="hibernate-orm" />
+
+	<category term="keycloak" />
+
+	<category term="hawkular" />
+
+	<category term="microservices" />
+
+	<category term="microprofile" />
+
+
+<feedburner:origLink>https://developer.jboss.org/blogs/weekly-editorial/2016/09/24/this-week-in-jboss-september-24-2016</feedburner:origLink></entry>
+
+<entry>
 	<id>http://tools.jboss.org/blog/10.1.0.ga-for-neon.html</id>
 	<link href="http://feedproxy.google.com/~r/jbossbuzz/~3/sBkDh6YtT38/10.1.0.ga-for-neon.html" rel="alternate" type="text/html" />
 	<title>JBoss Tools and Red Hat Developer Studio Maintenance Release for Eclipse Neon</title>
@@ -1853,170 +1881,6 @@
 
 
 <feedburner:origLink>https://developer.jboss.org/blogs/weekly-editorial/2016/07/29/this-week-in-jboss-29th-july-2016-summer-fun-has-begun</feedburner:origLink></entry>
-
-<entry>
-	<id>http://tools.jboss.org/blog/am2-for-neon.html</id>
-	<link href="http://feedproxy.google.com/~r/jbossbuzz/~3/Grgzu1LIss0/am2-for-neon.html" rel="alternate" type="text/html" />
-	<title>JBoss Tools AM2 for Eclipse Neon</title>
-	<summary type="html"><![CDATA[
-      <div><div id="preamble">
-      <div class="sectionbody">
-      <div class="paragraph">
-      <p>Happy to announce AM2 (Developer Milestone 2) build for Eclipse Neon.</p>
-      </div>
-      <div class="paragraph">
-      <p>Downloads available at <a href="http://tools.jboss.org/downloads/jbosstools/neon/4.4.1.AM2.html">JBoss Tools 4.4.1 AM2</a>.</p>
-      </div>
-      </div>
-      </div>
-      <div class="sect1">
-      <h2 id="what-is-new"><a class="anchor" href="#what-is-new"></a>What is New?</h2>
-      <div class="sectionbody">
-      <div class="paragraph">
-      <p>Full info is at <a href="http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.1.AM2.html">this page</a>. Some highlights are below.</p>
-      </div>
-      <div class="sect2">
-      <h3 id="openshift-3"><a class="anchor" href="#openshift-3"></a>OpenShift 3</h3>
-      <div class="paragraph">
-      <p>Although our main focus is bug fixes, we continue to work on providing better experience for container based development in JBoss Tools and Developer Studio. Let’s go through a few interesting updates here and you can find more details on <a href="http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.1.AM2.html">the What’s New page</a>.</p>
-      </div>
-      <div class="sect3">
-      <h4 id="server-templates"><a class="anchor" href="#server-templates"></a>Server templates</h4>
-      <div class="paragraph">
-      <p>Server templates are now displayed in the property view under the Templates tab:</p>
-      </div>
-      <div class="imageblock">
-      <div class="content">
-      <img src="http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-template.png" alt="Property view" />
-      </div>
-      </div>
-      </div>
-      </div>
-      <div class="sect2">
-      <h3 id="forge"><a class="anchor" href="#forge"></a>Forge</h3>
-      <div class="sect3">
-      <h4 id="forge-runtime-updated-to-3-2-3-final"><a class="anchor" href="#forge-runtime-updated-to-3-2-3-final"></a>Forge Runtime updated to 3.2.3.Final</h4>
-      <div class="paragraph">
-      <p>The included Forge runtime is now 3.2.3.Final. Read the official announcement <a href="http://forge.jboss.org/news/jboss-forge-3.2.3.final-is-here">here</a>.</p>
-      </div>
-      <div class="imageblock">
-      <div class="content">
-      <img src="http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.AM2/startup.png" alt="startup" />
-      </div>
-      </div>
-      </div>
-      </div>
-      <div class="sect2">
-      <h3 id="freemarker"><a class="anchor" href="#freemarker"></a>Freemarker</h3>
-      <div class="sect3">
-      <h4 id="freemarker-2-3-25"><a class="anchor" href="#freemarker-2-3-25"></a>Freemarker 2.3.25</h4>
-      <div class="paragraph">
-      <p>Freemarker library included in the Freemarker IDE was updated to latest available version 2.3.25.</p>
-      </div>
-      <p>Related JIRA: <a href="https://issues.jboss.org/browse/JBIDE-22700">JBIDE-22700</a></p>
-      </div>
-      <div class="sect3">
-      <h4 id="flth-fltx-file-extensions-added"><a class="anchor" href="#flth-fltx-file-extensions-added"></a>flth / fltx file extensions added</h4>
-      <div class="paragraph">
-      <p>The new flth and fltx extensions have been added and associated with Freemarker IDE. <code>flth</code> stands for HTML content whereas <code>fltx</code> stands for XML content.</p>
-      </div>
-      <p>Related JIRA: <a href="https://issues.jboss.org/browse/JBIDE-22636">JBIDE-22636</a></p>
-      <div class="paragraph">
-      <p>Enjoy!</p>
-      </div>
-      <div class="paragraph">
-      <p>Jeff Maury</p>
-      </div>
-      </div>
-      </div>
-      </div>
-      </div></div>
-    ]]></summary>
-	<content type="html">&lt;html&gt;&lt;body&gt;&lt;div&gt;&lt;div&gt;
-      &lt;div&gt;
-      &lt;div&gt;
-      &lt;p&gt;Happy to announce AM2 (Developer Milestone 2) build for Eclipse Neon.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;p&gt;Downloads available at &lt;a href="http://tools.jboss.org/downloads/jbosstools/neon/4.4.1.AM2.html" target="_blank"&gt;JBoss Tools 4.4.1 AM2&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;h2&gt;&lt;a href="#what-is-new" target="_blank"&gt;&lt;/a&gt;What is New?&lt;/h2&gt;
-      &lt;div&gt;
-      &lt;div&gt;
-      &lt;p&gt;Full info is at &lt;a href="http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.1.AM2.html" target="_blank"&gt;this page&lt;/a&gt;. Some highlights are below.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;h3&gt;&lt;a href="#openshift-3" target="_blank"&gt;&lt;/a&gt;OpenShift 3&lt;/h3&gt;
-      &lt;div&gt;
-      &lt;p&gt;Although our main focus is bug fixes, we continue to work on providing better experience for container based development in JBoss Tools and Developer Studio. Let&amp;rsquo;s go through a few interesting updates here and you can find more details on &lt;a href="http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.1.AM2.html" target="_blank"&gt;the What&amp;rsquo;s New page&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;h4&gt;&lt;a href="#server-templates" target="_blank"&gt;&lt;/a&gt;Server templates&lt;/h4&gt;
-      &lt;div&gt;
-      &lt;p&gt;Server templates are now displayed in the property view under the Templates tab:&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;div&gt;
-      &lt;img src="http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-template.png" alt="Property view"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;h3&gt;&lt;a href="#forge" target="_blank"&gt;&lt;/a&gt;Forge&lt;/h3&gt;
-      &lt;div&gt;
-      &lt;h4&gt;&lt;a href="#forge-runtime-updated-to-3-2-3-final" target="_blank"&gt;&lt;/a&gt;Forge Runtime updated to 3.2.3.Final&lt;/h4&gt;
-      &lt;div&gt;
-      &lt;p&gt;The included Forge runtime is now 3.2.3.Final. Read the official announcement &lt;a href="http://forge.jboss.org/news/jboss-forge-3.2.3.final-is-here" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;div&gt;
-      &lt;img src="http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.AM2/startup.png" alt="startup"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;h3&gt;&lt;a href="#freemarker" target="_blank"&gt;&lt;/a&gt;Freemarker&lt;/h3&gt;
-      &lt;div&gt;
-      &lt;h4&gt;&lt;a href="#freemarker-2-3-25" target="_blank"&gt;&lt;/a&gt;Freemarker 2.3.25&lt;/h4&gt;
-      &lt;div&gt;
-      &lt;p&gt;Freemarker library included in the Freemarker IDE was updated to latest available version 2.3.25.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;p&gt;Related JIRA: &lt;a href="https://issues.jboss.org/browse/JBIDE-22700" target="_blank"&gt;JBIDE-22700&lt;/a&gt;&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;h4&gt;&lt;a href="#flth-fltx-file-extensions-added" target="_blank"&gt;&lt;/a&gt;flth / fltx file extensions added&lt;/h4&gt;
-      &lt;div&gt;
-      &lt;p&gt;The new flth and fltx extensions have been added and associated with Freemarker IDE. &lt;code&gt;flth&lt;/code&gt; stands for HTML content whereas &lt;code&gt;fltx&lt;/code&gt; stands for XML content.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;p&gt;Related JIRA: &lt;a href="https://issues.jboss.org/browse/JBIDE-22636" target="_blank"&gt;JBIDE-22636&lt;/a&gt;&lt;/p&gt;
-      &lt;div&gt;
-      &lt;p&gt;Enjoy!&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-      &lt;p&gt;Jeff Maury&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;
-&lt;img src="http://feeds.feedburner.com/~r/jbossbuzz/~4/Grgzu1LIss0" height="1" width="1" alt=""/&gt;</content>
-	<updated>2016-07-29T17:22:08+00:00</updated>
-	<author><name>jeffmaury</name></author>
-	<source>
-		<link rel="self" href="http://tools.jboss.org/blog/" />
-		<title>JBoss Tools</title></source>
-
-	<category term="release" />
-
-	<category term="jbosstools" />
-
-	<category term="jbosscentral" />
-
-
-<feedburner:origLink>http://tools.jboss.org/blog/am2-for-neon.html</feedburner:origLink></entry>
 
 
 </feed><!-- vim:ft=xml

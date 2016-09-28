@@ -37,7 +37,7 @@ public class ImageViewerController {
 	private static final double MAX_SCALE = 4;
 	private static final double MIN_SCALE = 3;
 
-	private boolean stopSlideShow;
+	private boolean stopSlideShow = false;
 	protected static final double SCALE_FACTOR = 1.2;
 
 	final DoubleProperty zoomProperty = new SimpleDoubleProperty(200);
@@ -103,7 +103,7 @@ public class ImageViewerController {
 	public void handleOpenButonClick(MouseEvent arg0) {
 		LOG.debug("Entering OpenButonClick()");
 		ObservableList<Path> imageFiles = FXCollections.observableArrayList();
-		
+
 		DirectoryChooser directoryChooser = new DirectoryChooser();
 		directoryChooser.setTitle("This is my directory chooser");
 		directoryChooser.setInitialDirectory(filePath);
@@ -155,8 +155,8 @@ public class ImageViewerController {
 	@FXML
 	public void handleSlideshowButtonClick(MouseEvent arg0) throws InterruptedException {
 		LOG.debug("Entering SlideshowButtonClick()");
+		this.stopSlideShow = false;
 		Runnable backgroundTask = new Runnable() {
-
 			@Override
 			public void run() {
 				for (int item = 0; item < listView.getItems().size(); item++) {
